@@ -1,0 +1,3 @@
+This is a custom component developed both in Lightning Aura and LWC to share records manually. The user will be notified that a record has been shared with him by email and Salesforce notification as soon as one is shared with him. Currently, this works for practically all the Salesforce standard objects, including Accounts. Additionally, if you want to remove the share entries for a certain record, click the remove symbol on the RHS of the table. To utilize this component, make sure to construct a Quick Action.
+
+Blog URL: https://hellosnl.blogspot.com/2022/08/custom-salesforce-lightning-component-to-share-records-manually.html
