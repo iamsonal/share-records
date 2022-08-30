@@ -1,0 +1,5 @@
+Please review the shared Opportunity
+
+Opportunity Name: {!Opportunity.Name}
+Account Name: {!Opportunity.Account}
+Account Details Page link: {!Opportunity.Link}

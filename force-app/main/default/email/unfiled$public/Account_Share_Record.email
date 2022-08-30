@@ -1,0 +1,4 @@
+Please review the shared Account
+
+Account Name: {!Account.Name}
+Account Details Page link: {!Account.Link}

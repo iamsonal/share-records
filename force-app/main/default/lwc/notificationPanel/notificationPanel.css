@@ -1,0 +1,10 @@
+/**
+ * Created by sonal on 2022-07-12.
+ */
+
+.slds-notify_toast,
+.slds-notify--toast {
+    margin: auto;
+    display: flex;
+    border-radius: initial;
+}
